@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hunjoonrhee
 - 👀 I’m interested in Java Programming
-- 🌱 I’m currently learning Programming with Java
+- 🌱 I’m currently preparing to be a full-stack developer
 - 📫 How to reach me: hunjoonrhee90@gmail.com
 
 <!---
